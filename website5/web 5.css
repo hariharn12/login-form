@@ -1,0 +1,38 @@
+*{
+  font-family: inter;
+}
+/* left image section*/
+  .bg-image {
+    background: rgba(255, 93, 37, 0.12);
+  }
+  .bg-image img{
+    margin-top: 300px;
+    margin-left: 200;
+  }
+  /* form section*/
+  .login-container {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    margin-left: 200px;
+}
+
+.login-form {
+    margin: auto;
+}
+.form-control{
+    width: 60vh;
+    height: 60px;
+}
+.logo{  
+    margin-left:260px;
+
+}
+span{
+    color:#ff0026;
+}
+/* button  section*/
+.primary{
+  background-color:#FF6000;
+  color: aliceblue;
+}
